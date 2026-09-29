@@ -3,8 +3,8 @@
 A full-stack, production-ready Property Management System built with the MERN stack (MongoDB, Express, React, Node.js). Designed to help hospitality businesses in Kenya manage properties, track bookings, and analyze revenue in real-time.
 
 ## 🌍 Live Demo
-- **Frontend:** [\[Insert Your Vercel Link Here\]](https://kenya-hospitality-crm.vercel.app/)
-- **Backend API:** [\[Insert Your Render Link Here\]](https://kenya-hospitality-crm-api.onrender.com)
+- **Frontend:** (https://kenya-hospitality-crm.vercel.app/)
+- **Backend API:** (https://kenya-hospitality-crm-api.onrender.com)
 
 
 
